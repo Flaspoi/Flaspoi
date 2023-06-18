@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flaspoi
+- 👋 Hi, I’m Flaspoi (Roman Khismatov)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 
